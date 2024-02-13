@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Mert. They call me Mert409.
 - 👀 I’m interested in technology.
-- 🌱 Programming languages: Scratch, Python, C++
+- 🌱 Programming languages: Scratch, Python, C++, HTML
 - ☾☆ I'm from Turkey.
 
 - 📫 Selam! Ben mert. Bana Mert409 derler.
 - 😄 Teknolojiye ilgili biriyim.
-- ⚡ Programlama dilleri: Scratch, Python, C++
-- ✨ https://scratch.mit.edu/users/Mert409/
+- ⚡ Programlama dilleri: Scratch, Python, C++, HTML
+- ✨ mert-409.github.io - Bilgi Yarışması oynayın!
+- https://scratch.mit.edu/users/Mert409/
+- https://sites.google.com/view/mert409/
