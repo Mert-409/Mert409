@@ -6,6 +6,6 @@
 - 📫 Selam! Ben mert. Bana Mert409 derler.
 - 😄 Teknolojiye ilgili biriyim.
 - ⚡ Programlama dilleri: Scratch, Python, C++, HTML
-- ✨ mert-409.github.io - Bilgi Yarışması oynayın!
+- ✨ https://mert-409.github.io - Bilgi Yarışması oyunumu oynayın!
 - https://scratch.mit.edu/users/Mert409/
 - https://sites.google.com/view/mert409/
